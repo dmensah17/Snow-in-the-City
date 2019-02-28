@@ -16,7 +16,7 @@ particlesJS('snow',
   {
     "particles": {
       "number": {
-        "value": 2000,
+        "value": 1000,
         "density": {
           "enable": true,
           "value_area": 800
@@ -119,7 +119,7 @@ particlesJS('snow',
         }
       }
     },
-    "retina_detect": true,
+    "retina_detect": false,
     "config_demo": {
       "hide_card": false,
       "background_color": "#b61924",
